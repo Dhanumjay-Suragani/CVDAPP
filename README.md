@@ -50,30 +50,9 @@ The application aims to:
 
 ---
 
-## 📂 Project Structure
 
 
-Heartdisease/
-│
-├── backend/
-│ ├── app.py
-│ ├── requirements.txt
-│ ├── Procfile
-│ ├── .env.example
-│ └── models/
-│
-├── frontend/
-│ ├── src/
-│ │ ├── App.js
-│ │ ├── config.js
-│ │ └── pages/
-│ └── .env.production.example
-│
-├── deploy-notes.txt
-└── main.py
 
-
----
 
 ## ⚙️ Installation & Setup
 
@@ -149,11 +128,3 @@ Fork the repository
 Create a new branch
 Make your changes
 Submit a pull request
-🛡️ License
-
-Specify your license here (e.g., MIT License)
-
-📬 Contact
-
-Radhika Muvva
-B.Tech CSE Student
