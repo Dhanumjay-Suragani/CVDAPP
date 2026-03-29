@@ -12,6 +12,9 @@ The application aims to:
 > **Disclaimer:** This application provides indicative results only and is not a substitute for professional medical advice.
 
 ---
+App : https://heart-disease-prediction-green.vercel.app
+
+---
 
 ## 🚀 Features
 
